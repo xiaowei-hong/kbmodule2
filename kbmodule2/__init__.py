@@ -6,5 +6,4 @@
 ################################################################################
 
 import controllers
-
-    from odoo.service import common
+from odoo.service import common
